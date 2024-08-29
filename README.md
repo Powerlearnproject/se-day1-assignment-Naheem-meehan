@@ -19,12 +19,12 @@ Mastering communications(1993-2001)  Internet client-server
 
 List and briefly explain the phases of the Software Development Life Cycle.
 As clearly stated in the definition, software engineering starts with planningand creating and ends with maintenance. So to break its life circle down, these are the phases:
-planning:this requires understanding the project requirments and goals.
-Design: creating applications and websites to visualize user experience 
-Development: writing code to build the website or application. 
-Testing: ensuring the website works correctly across different broswers and devices. 
-Deployment: making the website live on the internet.
-Maintenance: updating and improving the website over time. 
+1. Planning:this requires understanding the project requirments and goals.
+2. Design: creating applications and websites to visualize user experience.
+3.  Development: writing code to build the website or application.
+4.  Testing: ensuring the website works correctly across different broswers and devices.
+5.  Deployment: making the website live on the internet.
+6.  Maintenance: updating and improving the website over time. 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Agile is flexible and iterative, emphasizing continous feedback and adaptation while waterfall is sequential and rigid with distinct phases completed in order. Agile promotes ongoing collaboration, while Waterfall focuses on thorough planning and execution in predetermined stages. 
